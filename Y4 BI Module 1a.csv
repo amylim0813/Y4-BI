@@ -1,0 +1,18 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,J,answer,image
+"Where are you from?
+",radio,国家,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,A,
+,radio,城市,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,B,
+,radio,市镇,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,C,
+,radio,村庄,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,D,
+,radio,马来西亚,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,E,
+,radio,中国,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,F,
+,radio,日本,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,G,
+,radio,印度,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,H,
+,radio,泰国,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,I,
+,radio,新加坡,country,city,town,village,Malaysia,China,Japan,India,Thailand,Singapore,J,
+,radio,国旗,flag,map,world,nationality,language,speak,country,town,village,city,A,
+,radio,地图,flag,map,world,nationality,language,speak,country,town,village,city,B,
+,radio,世界,flag,map,world,nationality,language,speak,country,town,village,city,C,
+,radio,国籍,flag,map,world,nationality,language,speak,country,town,village,city,D,
+,radio,语言,flag,map,world,nationality,language,speak,country,town,village,city,E,
+,radio,说,flag,map,world,nationality,language,speak,country,town,village,city,F,

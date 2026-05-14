@@ -1,0 +1,16 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,J,K,L,M,N,answer,image
+"Where are you from?
+",radio,华语/中国人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,A,
+,radio,日语/日本人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,B,
+,radio,印度人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,C,
+,radio,泰国人/泰语,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,D,
+,radio,马来西亚人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,E,
+,radio,英国人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,F,
+,radio,美国人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,G,
+,radio,澳洲人,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,H,
+,radio,地址,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,I,
+,radio,邮区编号,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,J,
+,radio,首都,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,K,
+,radio,岛屿,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,L,
+,radio,洲,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,M,
+,radio,护照,Chinese,Japanese,Indian,Thai,Malaysian,British,American,Australian,address,postcode,capital,island,continent,passport,N ,
